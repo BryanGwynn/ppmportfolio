@@ -7,3 +7,6 @@
 [submodule "vendor/phpoption/phpoption"]
     path = vendor/phpoption/phpoption
     url = https://github.com/schmittjoh/php-option.git
+[submodule "vendor/symfony/polyfill-ctype"]
+    path = vendor/symfony/polyfill-ctype
+    url = https://github.com/symfony/polyfill-ctype.git
